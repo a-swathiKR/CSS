@@ -1,0 +1,38 @@
+h2{
+    color:brown;
+}
+span{
+    color:rgba(169, 74, 5, 0.888);
+}
+
+
+.card{
+    width:400px;
+    height: 500px;
+    border: 2px solid black;
+    /* margin-left: 100px; */
+    display: inline-block;
+    border-radius: 10px;
+    margin: 0.5px 50px 50px 50px;
+    
+
+}
+ 
+img{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+    margin:10px 10px 10px 10px;
+
+}
+
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+h3,p,img{
+    margin-left: 10px;
+}
+

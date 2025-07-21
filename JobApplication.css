@@ -1,0 +1,172 @@
+.container{
+    background-color: white;
+    height: 98vh;
+    width: 500px;
+    margin-left: 350px;
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 25px black;
+
+}
+
+.container h1{
+    position: absolute;
+    left: 500px;
+}
+
+.container #first{
+    position: absolute;
+    top: 100px;
+    left: 380px;
+    font-size: medium;
+}
+.container #firstname{
+    position: absolute;
+    top:140px;
+    left: 380px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #last{
+    position: absolute;
+    top: 100px;
+    left: 670px;
+    font-size: medium;
+}
+
+.container #lastname{
+    position: absolute;
+    top:140px;
+    left: 670px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #email{
+    position: absolute;
+    top: 180px;
+    left: 380px;
+    font-size: medium;
+
+}
+.container #Email{
+    position: absolute;
+    top: 220px;
+    left: 380px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #jobrole{
+    position: absolute;
+    top: 185px;
+    left: 670px;
+    font-size: medium;
+}
+.container #selectjob{
+    position: absolute;
+    top: 225px;
+    width: 170px;
+    left: 670px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #address{
+    position: absolute;
+    top: 250px;
+    left: 380px;
+    font-size: medium;
+}
+
+.container #Address{
+    position: absolute;
+    top: 290px;
+    left: 380px;
+    width: 450px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #city{
+    position: absolute;
+    top: 350px;
+    left: 380px;
+    font-size: medium;
+}
+
+.container #City{
+    position: absolute;
+    top: 390px;
+    left: 380px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #pincode{
+    position: absolute;
+    top: 352px;
+    left: 670px;
+    font-size: medium;
+}
+
+.container #Pincode{
+    position: absolute;
+    top:390px;
+    left: 670px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.container #startdate{
+    position: absolute;
+    top: 420px;
+    left: 380px;
+    font-size: medium;
+}
+
+.container #StartDate{
+    position: absolute;
+    top: 460px;
+    left: 380px;
+    height: 25px;
+    width: 170px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container #cv{
+    position: absolute;
+    top: 422px;
+    left: 670px;
+    font-size: medium;
+}
+
+.container #CV{
+    position: absolute;
+    top: 463px;
+    left: 670px;
+    height: 21px;
+    width: 170px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.container button{
+    color: white;
+    background-color: orangered;
+    position: absolute;
+    top: 520px;
+    left: 700px;
+    height: 30px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
